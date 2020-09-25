@@ -1,3 +1,3 @@
 # Sem1week39
 
-My solutions for tesks of week 39. 
+My solutions for tasks of week 39. 
